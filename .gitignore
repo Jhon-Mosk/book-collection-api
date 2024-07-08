@@ -1,0 +1,9 @@
+.env
+node_modules
+tests
+temp
+prod.env
+dev.env
+*.sh
+*.bash
+*.zip
